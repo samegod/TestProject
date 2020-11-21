@@ -12,7 +12,6 @@ public class Script : MonoBehaviour
 
     public float movespeed = 2;
     public float rotateZ;
-    private bool last = false;
 
     private Vector3 vec;
     private Vector3 Path;
