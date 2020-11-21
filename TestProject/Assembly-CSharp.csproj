@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\DotScript.cs" />
+    <Compile Include="Assets\Scripts\LineRendererScript.cs" />
     <Compile Include="Assets\Scripts\Script.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/User/Desktop/Job/TestProject/TestProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

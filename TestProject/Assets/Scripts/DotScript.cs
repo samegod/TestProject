@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DotScript : MonoBehaviour
 {
-    public GameObject obj;
+    public GameObject lr;
     private Transform tr;
 
     private float scale = 0.25f;
@@ -12,12 +12,14 @@ public class DotScript : MonoBehaviour
 
     private void Start()
     {
-        obj = GetComponent<GameObject>();
+        lr = GameObject.Find("LineRenderer");
         tr = GetComponent<Transform>();
+        lr.SendMessage("addPoint", gameObject);
     }
 
     void Update()
     {
+
         if (agh)
         {
             scale += 0.005f;
@@ -35,10 +37,10 @@ public class DotScript : MonoBehaviour
 
     }
 
-    IEnumerator destroy()
+    void destroy()
     {
-        Debug.Log("Destroyed!");
-        yield return new WaitForSeconds(0.5f);
-        Destroy(gameObject, .5f);
+        lr = GameObject.Find("LineRenderer");
+        lr.SendMessage("dellSndPoint");
+        Destroy(gameObject);
     }
 }

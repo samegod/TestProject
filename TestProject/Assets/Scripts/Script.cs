@@ -1,72 +1,122 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using System;
 public class Script : MonoBehaviour
 {
     public GameObject point;
     public GameObject Character;
-    public float x = 200, y = 200;
-
+    public GameObject lr;
+    public GameObject PauseButton;
     public LinkedList<GameObject> dots = new LinkedList<GameObject>();
+
+    public float movespeed = 2;
+    public float rotateZ;
+    private bool last = false;
 
     private Vector3 vec;
     private Vector3 Path;
     private Vector3 pos;
 
-    private bool Pause;
+    float x1;
+    float x2;
+    float y1;
+    float y2;
+
+    private bool Pause = false;
     void Start()
     {
+        lr.SendMessage("addChar", gameObject.transform);
         vec = Character.transform.position;
+        pos = new Vector3(1, 1, 0);
+
+        x1 = PauseButton.transform.position.x - 50;
+        x2 = PauseButton.transform.position.x + 50;
+        y1 = PauseButton.transform.position.y - 50;
+        y2 = PauseButton.transform.position.y + 50;
     }
+
 
     void Update()
     {
+        rotateZ = Mathf.Atan2(Path.y, Path.x) * Mathf.Rad2Deg;
+        Character.transform.rotation = Quaternion.Euler(0f, 0f, rotateZ - 90);
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (Pause)
-            {
-                PauseGame();
-                Pause = false;
-            }
-            else
-            {
-                ResumeGame();
-                Pause = true;
-            }
+            PauseGame();
         }
+
         if (Input.GetMouseButtonDown(0))
         {
-            vec = new Vector3((Input.mousePosition.x - Screen.width / 2) / 53, (Input.mousePosition.y - Screen.height / 2) / 53, 0);
-            dots.AddLast(Instantiate(point, vec, Quaternion.identity));
+            vec = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            vec.z = 0;
 
+            Debug.Log(Input.mousePosition.y + "  " + PauseButton.transform.position.y);
+
+            float x = Input.mousePosition.x;
+            float y = Input.mousePosition.y;
+
+            if (!((x1 < x && x2 > x) && (y1 < y && y2 > y)))
+            {
+                dots.AddLast(Instantiate(point, vec, Quaternion.identity));
+
+                forMotion();
+            }
         }
+        
 
         if (Mathf.Abs(Character.transform.position.x - pos.x) > 0.1 || Mathf.Abs(Character.transform.position.y - pos.y) > 0.1)
         {
-            Character.transform.Translate(Path * Time.deltaTime);
+            Character.transform.position += Path * movespeed * Time.deltaTime;
         }
         else if (dots.First != null)
         {
-            Debug.Log("Prepare to destroying!");
+            if (dots.First == dots.Last)
+            {
+                forMotion();
 
-            Path.x = dots.First.Value.transform.position.x - Character.transform.position.x;
-            Path.y = dots.First.Value.transform.position.y - Character.transform.position.y;
+                dots.First.Value.SendMessage("destroy");
+                dots.RemoveFirst();
+            }
+            else
+            {
+                dots.First.Value.SendMessage("destroy");
+                dots.RemoveFirst();
 
-            pos = dots.First.Value.transform.position;
-
-            dots.First.Value.SendMessage("destroy");
-            dots.RemoveFirst();
+                forMotion();
+            }
         }
+    }
+
+    void forMotion()
+    {
+        Path.x = dots.First.Value.transform.position.x - Character.transform.position.x;
+        Path.y = dots.First.Value.transform.position.y - Character.transform.position.y;
+
+        float len = Mathf.Sqrt(sqr(Path.x) + sqr(Path.y));
+        Path.x /= len;
+        Path.y /= len;
+
+        pos = dots.First.Value.transform.position;
     }
 
     void PauseGame()
     {
-        Time.timeScale = 0;
+        if (Pause)
+        {
+            Time.timeScale = 1;
+            Pause = false;
+        }
+        else
+        {
+            Time.timeScale = 0;
+            Pause = true;
+        }
     }
 
-    void ResumeGame()
+    float sqr(float x1)
     {
-        Time.timeScale = 1;
+        return x1 * x1;
     }
 }
