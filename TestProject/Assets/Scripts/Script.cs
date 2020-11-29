@@ -39,7 +39,7 @@ public class Script : MonoBehaviour
     void Update()
     {
         rotateZ = Mathf.Atan2(Path.y, Path.x) * Mathf.Rad2Deg;
-        Character.transform.rotation = Quaternion.Euler(0f, 0f, rotateZ - 90);
+        Character.transform.rotation = Quaternion.Euler(0f, 0f, rotateZ);
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -50,8 +50,6 @@ public class Script : MonoBehaviour
         {
             vec = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             vec.z = 0;
-
-            Debug.Log(Input.mousePosition.y + "  " + PauseButton.transform.position.y);
 
             float x = Input.mousePosition.x;
             float y = Input.mousePosition.y;
