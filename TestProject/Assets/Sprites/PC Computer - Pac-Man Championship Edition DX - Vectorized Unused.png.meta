@@ -1,0 +1,5062 @@
+fileFormatVersion: 2
+guid: f3f268e3bb0af1e4fb83382fabb49e4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9013638465303987088
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_0
+  - first:
+      213: 582505678327356085
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_1
+  - first:
+      213: -6953914420759264974
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_2
+  - first:
+      213: -6476173721180389002
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_3
+  - first:
+      213: -6906371713356932415
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_4
+  - first:
+      213: -6998027059560887250
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_5
+  - first:
+      213: 5230924765324814760
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_6
+  - first:
+      213: 2222151849480706265
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_7
+  - first:
+      213: 6677035067959077633
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_8
+  - first:
+      213: 7185421084929721203
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_9
+  - first:
+      213: 1468152397507229803
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_10
+  - first:
+      213: -3851671438708073592
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_11
+  - first:
+      213: -33624239394344010
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_12
+  - first:
+      213: -2921264139392572028
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_13
+  - first:
+      213: -3100363022222698188
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_14
+  - first:
+      213: -7151564164086096477
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_15
+  - first:
+      213: -8062944806774599277
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_16
+  - first:
+      213: -6801134568847106883
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_17
+  - first:
+      213: 668105134613476190
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_18
+  - first:
+      213: -3663893607786098286
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_19
+  - first:
+      213: 6503568492388613149
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_20
+  - first:
+      213: -2612885523431551973
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_21
+  - first:
+      213: 5030222446850357745
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_22
+  - first:
+      213: -1477874565282168127
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_23
+  - first:
+      213: -2866784210710201685
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_24
+  - first:
+      213: -7719630114301222506
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_25
+  - first:
+      213: -7731267674370265024
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_26
+  - first:
+      213: 4082041439963765237
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_27
+  - first:
+      213: -6994106122790304530
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_28
+  - first:
+      213: 6026016256454626465
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_29
+  - first:
+      213: 8051109980471867042
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_30
+  - first:
+      213: 250478187922356480
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_31
+  - first:
+      213: 8220061322739449427
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_32
+  - first:
+      213: -7224578566852619290
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_33
+  - first:
+      213: 4215528781311220070
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_34
+  - first:
+      213: 7847169442306521109
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_35
+  - first:
+      213: 3300088627669637824
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_36
+  - first:
+      213: -3228067608139747333
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_37
+  - first:
+      213: -2892426050390594822
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_38
+  - first:
+      213: -5119153816133677888
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_39
+  - first:
+      213: 4365999804229027743
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_40
+  - first:
+      213: 1513999875263775513
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_41
+  - first:
+      213: 309007892607914432
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_42
+  - first:
+      213: 7013654006040855428
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_43
+  - first:
+      213: -4628966356477443417
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_44
+  - first:
+      213: -2564763932443837348
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_45
+  - first:
+      213: -7519175385120446119
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_46
+  - first:
+      213: 1924668988354099085
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_47
+  - first:
+      213: 8953554651435208930
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_48
+  - first:
+      213: 5924802815706646236
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_49
+  - first:
+      213: -3078068415353550808
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_50
+  - first:
+      213: -6320881844522887803
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_51
+  - first:
+      213: 1080849365973109209
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_52
+  - first:
+      213: -5960378539527354397
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_53
+  - first:
+      213: -236852397093300054
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_54
+  - first:
+      213: -8593660802971165609
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_55
+  - first:
+      213: -5104708043511436466
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_56
+  - first:
+      213: 5056402213839861111
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_57
+  - first:
+      213: 6685700962327079277
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_58
+  - first:
+      213: 5355301840662572054
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_59
+  - first:
+      213: -5893651067716526114
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_60
+  - first:
+      213: 7436185089534712949
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_61
+  - first:
+      213: 8733286721838196607
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_62
+  - first:
+      213: -4898185748490163773
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_63
+  - first:
+      213: -4841915321409796749
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_64
+  - first:
+      213: -7148910693435115568
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_65
+  - first:
+      213: -5453455402774896622
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_66
+  - first:
+      213: -3803109356536181015
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_67
+  - first:
+      213: 198749655182660917
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_68
+  - first:
+      213: 3029585544039728270
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_69
+  - first:
+      213: 5993816652039463225
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_70
+  - first:
+      213: 4179584567523017864
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_71
+  - first:
+      213: 1346925288589398248
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_72
+  - first:
+      213: -4487306154733775029
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_73
+  - first:
+      213: 8556044007164668961
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_74
+  - first:
+      213: -4851434715830860058
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_75
+  - first:
+      213: -1210233246283232118
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_76
+  - first:
+      213: 6380062034733008500
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_77
+  - first:
+      213: 9003970697108407101
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_78
+  - first:
+      213: -856557981718321701
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_79
+  - first:
+      213: -8746933004669491047
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_80
+  - first:
+      213: 7297739786401558741
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_81
+  - first:
+      213: 9037877306964064522
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_82
+  - first:
+      213: 80963507410162310
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_83
+  - first:
+      213: 8761040129738611541
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_84
+  - first:
+      213: 1230660642230241731
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_85
+  - first:
+      213: -2690241146777970488
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_86
+  - first:
+      213: -4680542618803718194
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_87
+  - first:
+      213: -9204401667067242402
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_88
+  - first:
+      213: -4892695800700691737
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_89
+  - first:
+      213: 4263744712994193673
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_90
+  - first:
+      213: -6816899295215907450
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_91
+  - first:
+      213: -6825551158224583662
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_92
+  - first:
+      213: 2434162634971792588
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_93
+  - first:
+      213: 2374815312959049328
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_94
+  - first:
+      213: 9065691514072867686
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_95
+  - first:
+      213: 4110742157920639198
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_96
+  - first:
+      213: 6128783178659182834
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_97
+  - first:
+      213: 1659573181135598861
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_98
+  - first:
+      213: -1772411320473145107
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_99
+  - first:
+      213: 3181610805514076484
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_100
+  - first:
+      213: -4014947472990833843
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_101
+  - first:
+      213: 3650425704252126864
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_102
+  - first:
+      213: -1596934225435599357
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_103
+  - first:
+      213: 7088601969765657298
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_104
+  - first:
+      213: 5377895108884145263
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_105
+  - first:
+      213: 8539075127208189810
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_106
+  - first:
+      213: -6012212587154594783
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_107
+  - first:
+      213: -4913936716361581053
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_108
+  - first:
+      213: 550288593681612716
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_109
+  - first:
+      213: -2705444398742757204
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_110
+  - first:
+      213: 6023753234238054181
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_111
+  - first:
+      213: 8429897560172661998
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_112
+  - first:
+      213: -2336145624411385555
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_113
+  - first:
+      213: -3251763459147049246
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_114
+  - first:
+      213: 4653358261228728455
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_115
+  - first:
+      213: 7832736599616888259
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_116
+  - first:
+      213: 1251308429313443366
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_117
+  - first:
+      213: -701985841891386193
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_118
+  - first:
+      213: 7568254514938560935
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_119
+  - first:
+      213: 501137386257842134
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_120
+  - first:
+      213: -1455471616046143386
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_121
+  - first:
+      213: 4082152877808329161
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_122
+  - first:
+      213: 389983511432832749
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_123
+  - first:
+      213: 1621585311486693654
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_124
+  - first:
+      213: -8475668979251925208
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_125
+  - first:
+      213: -1014926759121776825
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_126
+  - first:
+      213: -53488338372027236
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_127
+  - first:
+      213: -6109928313710177657
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_128
+  - first:
+      213: 7778437679333566479
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_129
+  - first:
+      213: 6897077717133190290
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_130
+  - first:
+      213: 4988014023177888344
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_131
+  - first:
+      213: -2645488453215795918
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_132
+  - first:
+      213: -5271497830700026461
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_133
+  - first:
+      213: -6876678658915565995
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_134
+  - first:
+      213: 7158625670165063169
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_135
+  - first:
+      213: -2887423687294881200
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_136
+  - first:
+      213: 4811921361793827768
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_137
+  - first:
+      213: 7987093891818736125
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_138
+  - first:
+      213: -8889843216550603003
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_139
+  - first:
+      213: 4297260657118695790
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_140
+  - first:
+      213: -4740256117276184639
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_141
+  - first:
+      213: 5272357166162445250
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_142
+  - first:
+      213: 3212703276491550924
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_143
+  - first:
+      213: -1409667993870318548
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_144
+  - first:
+      213: 6660161377439825704
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_145
+  - first:
+      213: -9183044244428963097
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_146
+  - first:
+      213: 8954367721616731836
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_147
+  - first:
+      213: -6367672744953901018
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_148
+  - first:
+      213: 8543262028451670383
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_149
+  - first:
+      213: 1167442951742787737
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_150
+  - first:
+      213: 377000587076148866
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_151
+  - first:
+      213: 1020474487691064243
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_152
+  - first:
+      213: -9131798823468492523
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_153
+  - first:
+      213: -3216706590103731346
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_154
+  - first:
+      213: 4864747062957327766
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_155
+  - first:
+      213: -776918922514343789
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_156
+  - first:
+      213: -3298316873763801036
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_157
+  - first:
+      213: 6719557526843454200
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_158
+  - first:
+      213: -738404614347677142
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_159
+  - first:
+      213: -2460123371256201491
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_160
+  - first:
+      213: 4140582277896183009
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_161
+  - first:
+      213: 7287693923273945524
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_162
+  - first:
+      213: 672703385861246223
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_163
+  - first:
+      213: 4179274521401506690
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_164
+  - first:
+      213: -4452261400173055791
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_165
+  - first:
+      213: -8605248173133688403
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_166
+  - first:
+      213: 6385952513755169404
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_167
+  - first:
+      213: -5103086726697473895
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_168
+  - first:
+      213: 1689245213798396562
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_169
+  - first:
+      213: 6651230521791484588
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_170
+  - first:
+      213: -5818166807372494744
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_171
+  - first:
+      213: 5438716158719271895
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_172
+  - first:
+      213: -1063072577236852863
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_173
+  - first:
+      213: 6531000025343584633
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_174
+  - first:
+      213: -1386153671105120693
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_175
+  - first:
+      213: -8473204981124016368
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_176
+  - first:
+      213: 3789878328231591311
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_177
+  - first:
+      213: -7157849811543150011
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_178
+  - first:
+      213: 1981698622524284415
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_179
+  - first:
+      213: 3811387419514052116
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_180
+  - first:
+      213: -114106826339240100
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_181
+  - first:
+      213: 8130087541373706760
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_182
+  - first:
+      213: 1983225663040264673
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_183
+  - first:
+      213: 1499913038994020338
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_184
+  - first:
+      213: 6743812929878430529
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_185
+  - first:
+      213: -374436085015251682
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_186
+  - first:
+      213: 3540636540129833154
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_187
+  - first:
+      213: 4369242084822815033
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_188
+  - first:
+      213: -8026600966238789125
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_189
+  - first:
+      213: 4617310255862390723
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_190
+  - first:
+      213: -9196018401754340800
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_191
+  - first:
+      213: -1602705677414740631
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_192
+  - first:
+      213: 1926338755691948126
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_193
+  - first:
+      213: -5219098803022403563
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_194
+  - first:
+      213: -269529331046693920
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_195
+  - first:
+      213: 8208264096155159141
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_196
+  - first:
+      213: 5933669890409134122
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_197
+  - first:
+      213: 4372551997153999236
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_198
+  - first:
+      213: -8005561649312029352
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_199
+  - first:
+      213: -2569456973193586026
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_200
+  - first:
+      213: -5506161155530269381
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_201
+  - first:
+      213: -1183614474236033498
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_202
+  - first:
+      213: -7505447582027472386
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_203
+  - first:
+      213: -4239503972264424784
+    second: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_204
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c32c5729f19e280800000000000000
+      internalID: -9013638465303987088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba995404d9751800800000000000000
+      internalID: 582505678327356085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318d208dabbe7f90800000000000000
+      internalID: -6953914420759264974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671c25510520026a0800000000000000
+      internalID: -6476173721180389002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadd8aa483a720a0800000000000000
+      internalID: -6906371713356932415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c4d4a677302ee90800000000000000
+      internalID: -6998027059560887250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 978
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9aaf30c5af79840800000000000000
+      internalID: 5230924765324814760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 978
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d85649655ba6de10800000000000000
+      internalID: 2222151849480706265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 976
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be682940899ac50800000000000000
+      internalID: 6677035067959077633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 981
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37386d0286eb7b360800000000000000
+      internalID: 7185421084929721203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b687e81b3dcef5410800000000000000
+      internalID: 1468152397507229803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9948cb3d1c8ac0800000000000000
+      internalID: -3851671438708073592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3be03beea888ff0800000000000000
+      internalID: -33624239394344010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 978
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852b642eb59577d0800000000000000
+      internalID: -2921264139392572028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 978
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d8a9f14c49f4d0800000000000000
+      internalID: -3100363022222698188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_15
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 978
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1c3b884a80cc90800000000000000
+      internalID: -7151564164086096477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3919e94ea6aaa1090800000000000000
+      internalID: -8062944806774599277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1d32c4248d91a0800000000000000
+      internalID: -6801134568847106883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5330458416954900800000000000000
+      internalID: 668105134613476190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d5150d2c372dc0800000000000000
+      internalID: -3663893607786098286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cfe312611514a50800000000000000
+      internalID: 6503568492388613149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c0a19c57a2dbbd0800000000000000
+      internalID: -2612885523431551973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 928
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f936b50aa0fec540800000000000000
+      internalID: 5030222446850357745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c285c9b9e88d7be0800000000000000
+      internalID: -1477874565282168127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 928
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7be003f22738d0800000000000000
+      internalID: -2866784210710201685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_25
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 930
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691eaa7bf4d5ed490800000000000000
+      internalID: -7719630114301222506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_26
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 928
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04033bd130505b490800000000000000
+      internalID: -7731267674370265024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_27
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d673ef0356a830800000000000000
+      internalID: 4082041439963765237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_28
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 928
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee403b5a981ffee90800000000000000
+      internalID: -6994106122790304530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 928
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac05b8abd5b0a350800000000000000
+      internalID: 6026016256454626465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 928
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b0a1eed94bbf60800000000000000
+      internalID: 8051109980471867042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_31
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 928
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097817b590e97300800000000000000
+      internalID: 250478187922356480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35effc5a836831270800000000000000
+      internalID: 8220061322739449427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e359d622142dbb90800000000000000
+      internalID: -7224578566852619290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6699d7e7711908a30800000000000000
+      internalID: 4215528781311220070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518fafc180fb6ec60800000000000000
+      internalID: 7847169442306521109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca1e8b4f154ccd20800000000000000
+      internalID: 3300088627669637824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffa2e90d999333d0800000000000000
+      internalID: -3228067608139747333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 879
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afae167f4d90cd7d0800000000000000
+      internalID: -2892426050390594822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 878
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc44c60abc15f8b0800000000000000
+      internalID: -5119153816133677888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 880
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970f7c90b5279c30800000000000000
+      internalID: 4365999804229027743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_41
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91345137ddec20510800000000000000
+      internalID: 1513999875263775513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_42
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1dfa78a01d94400800000000000000
+      internalID: 309007892607914432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 878
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4838f879821855160800000000000000
+      internalID: 7013654006040855428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 878
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28de4cf9b92cfb0800000000000000
+      internalID: -4628966356477443417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_45
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 878
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c73f9cac0286cd0800000000000000
+      internalID: -2564763932443837348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_46
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 878
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e80653d586a790800000000000000
+      internalID: -7519175385120446119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877e016f3cc5ba10800000000000000
+      internalID: 1924668988354099085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e097db748a614c70800000000000000
+      internalID: 8953554651435208930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6cd6a15c0293250800000000000000
+      internalID: 5924802815706646236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8288084a5118845d0800000000000000
+      internalID: -3078068415353550808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5855ffda377b748a0800000000000000
+      internalID: -6320881844522887803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9888295c2fffe00800000000000000
+      internalID: 1080849365973109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_53
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 830
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74c983c4b784da0800000000000000
+      internalID: -5960378539527354397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_54
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 838
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8dd0feff786bcf0800000000000000
+      internalID: -236852397093300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_55
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 826
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c94b6e70f2db880800000000000000
+      internalID: -8593660802971165609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_56
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 830
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4beb60941f6829b0800000000000000
+      internalID: -5104708043511436466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_57
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757c650603fb2640800000000000000
+      internalID: 5056402213839861111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_58
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692ef55a9168cc50800000000000000
+      internalID: 6685700962327079277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_59
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c20b586aad15a40800000000000000
+      internalID: 5355301840662572054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_60
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 828
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf97ae649b853ea0800000000000000
+      internalID: -5893651067716526114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_61
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd5c9b0f2a23760800000000000000
+      internalID: 7436185089534712949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_62
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 828
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f772dc8a00ed23970800000000000000
+      internalID: 8733286721838196607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9ec517306260cb0800000000000000
+      internalID: -4898185748490163773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_64
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37509d23baf0eccb0800000000000000
+      internalID: -4841915321409796749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fec2d997f9cc90800000000000000
+      internalID: -7148910693435115568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ea2f643f6154b0800000000000000
+      internalID: -5453455402774896622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee42b1a034a83bc0800000000000000
+      internalID: -3803109356536181015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d46422c912c200800000000000000
+      internalID: 198749655182660917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_69
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 802
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84852930004b0a20800000000000000
+      internalID: 3029585544039728270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_70
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 783
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93122a90d705e2350800000000000000
+      internalID: 5993816652039463225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 774
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8840aef050ed00a30800000000000000
+      internalID: 4179584567523017864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_72
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 778
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e09c55e96d31b210800000000000000
+      internalID: 1346925288589398248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_73
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475ba8b3d2e9b1c0800000000000000
+      internalID: -4487306154733775029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_74
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ce8a151bc2db670800000000000000
+      internalID: 8556044007164668961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_75
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 778
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e647e774dd3cacb0800000000000000
+      internalID: -4851434715830860058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_76
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 778
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c8beb4643643fe0800000000000000
+      internalID: -1210233246283232118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_77
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 786
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47687391e988a8850800000000000000
+      internalID: 6380062034733008500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_78
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 786
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334c29d4a784fc70800000000000000
+      internalID: 9003970697108407101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_79
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 781
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5672acd05ec14f0800000000000000
+      internalID: -856557981718321701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 782
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998e88686c6ac9680800000000000000
+      internalID: -8746933004669491047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d033bfaba7c64560800000000000000
+      internalID: 7297739786401558741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a093825a68dfc6d70800000000000000
+      internalID: 9037877306964064522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_83
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682d3fa81e3af1100800000000000000
+      internalID: 80963507410162310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b130c7497759970800000000000000
+      internalID: 8761040129738611541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_85
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90033755f241110800000000000000
+      internalID: 1230660642230241731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 728
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d8263ee75aaad0800000000000000
+      internalID: -2690241146777970488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 746
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b02a694f5b0fb0800000000000000
+      internalID: -4680542618803718194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_88
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 746
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5891786375634080800000000000000
+      internalID: -9204401667067242402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_89
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 731
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea90358717a91cb0800000000000000
+      internalID: -4892695800700691737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 737
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90108f6e93ddb2b30800000000000000
+      internalID: 4263744712994193673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_91
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 730
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d8b0f55328561a0800000000000000
+      internalID: -6816899295215907450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 728
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21484c98265c641a0800000000000000
+      internalID: -6825551158224583662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_93
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 727
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c50f0502e7c120800000000000000
+      internalID: 2434162634971792588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_94
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 730
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0510e1f905f020800000000000000
+      internalID: 2374815312959049328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_95
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6632693666ecfcd70800000000000000
+      internalID: 9065691514072867686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_96
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81516863a4c0930800000000000000
+      internalID: 4110742157920639198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_97
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 728
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8be5d44dfcd0550800000000000000
+      internalID: 6128783178659182834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_98
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 728
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d053a54f30df70710800000000000000
+      internalID: 1659573181135598861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_99
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 730
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0315f6b412767e0800000000000000
+      internalID: -1772411320473145107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_100
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 729
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4410634bb2a572c20800000000000000
+      internalID: 3181610805514076484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_101
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d437780ab8a0848c0800000000000000
+      internalID: -4014947472990833843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09637e456dae8a230800000000000000
+      internalID: 3650425704252126864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_103
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5f3b68cc86d9e0800000000000000
+      internalID: -1596934225435599357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_104
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da240a3fe5cf5260800000000000000
+      internalID: 7088601969765657298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_105
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a954bb1f12aa40800000000000000
+      internalID: 5377895108884145263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1e931693e08670800000000000000
+      internalID: 8539075127208189810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_107
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 691
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a48c8184509ca0800000000000000
+      internalID: -6012212587154594783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_108
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 691
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb48477903ecbb0800000000000000
+      internalID: -4913936716361581053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 680
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf77567f8403a700800000000000000
+      internalID: 550288593681612716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_110
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 687
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02e5547a4547ad0800000000000000
+      internalID: -2705444398742757204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_111
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 678
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9e5db6aba89350800000000000000
+      internalID: 6023753234238054181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_112
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 678
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec060fda230df470800000000000000
+      internalID: 8429897560172661998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_113
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2150699ee7549fd0800000000000000
+      internalID: -2336145624411385555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_114
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d1fbcc5a6fd2d0800000000000000
+      internalID: -3251763459147049246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_115
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780fa2d1fac049040800000000000000
+      internalID: 4653358261228728455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_116
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 678
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd9d5f007873bc60800000000000000
+      internalID: 7832736599616888259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_117
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260ea1036a8d5110800000000000000
+      internalID: 1251308429313443366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_118
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 678
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd5b8989b0246f0800000000000000
+      internalID: -701985841891386193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_119
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c8ac0267d70960800000000000000
+      internalID: 7568254514938560935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_120
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff0933cc564f600800000000000000
+      internalID: 501137386257842134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e7e0d6402dcbe0800000000000000
+      internalID: -1455471616046143386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1aa980a68b6a830800000000000000
+      internalID: 4082152877808329161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_123
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a63bffef796500800000000000000
+      internalID: 389983511432832749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d720df37018610800000000000000
+      internalID: 1621585311486693654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_125
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 646
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f24e928ff506a80800000000000000
+      internalID: -8475668979251925208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_126
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 646
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f02896d714ae1f0800000000000000
+      internalID: -1014926759121776825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_127
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 632
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c95bfb3a8f14ff0800000000000000
+      internalID: -53488338372027236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_128
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 652
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782143a029c253ba0800000000000000
+      internalID: -6109928313710177657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_129
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 626
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e0308bdf82fb60800000000000000
+      internalID: 7778437679333566479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_130
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 628
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946cf534a757bf50800000000000000
+      internalID: 6897077717133190290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_131
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526f22935cf83540800000000000000
+      internalID: 4988014023177888344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_132
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235cca8a446594bd0800000000000000
+      internalID: -2645488453215795918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_133
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 628
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5f1ee07a0e7d6b0800000000000000
+      internalID: -5271497830700026461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_134
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 628
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ef3d4a1312190a0800000000000000
+      internalID: -6876678658915565995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_135
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 628
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1066e267e1c885360800000000000000
+      internalID: 7158625670165063169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_136
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 628
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527db2647fcde7d0800000000000000
+      internalID: -2887423687294881200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_137
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 632
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c5d0ebf067c240800000000000000
+      internalID: 4811921361793827768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_138
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 603
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df94c81c39bd7de60800000000000000
+      internalID: 7987093891818736125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_139
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 603
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d598e1bee0a480800000000000000
+      internalID: -8889843216550603003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_140
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 583
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6152debccfe2ab30800000000000000
+      internalID: 4297260657118695790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_141
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 587
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf61612d2a373eb0800000000000000
+      internalID: -4740256117276184639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_142
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 575
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3091298ec2b2940800000000000000
+      internalID: 5272357166162445250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_143
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 576
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0330cbb90d59c20800000000000000
+      internalID: 3212703276491550924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_144
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 578
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c244f16ad6adf6ce0800000000000000
+      internalID: -1409667993870318548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_145
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 578
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb3195c75ad6c50800000000000000
+      internalID: 6660161377439825704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_146
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 528
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2cd1ed9e54f8080800000000000000
+      internalID: -9183044244428963097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_147
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 534
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6033200e444c70800000000000000
+      internalID: 8954367721616731836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_148
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 537
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6201617306b71a7a0800000000000000
+      internalID: -6367672744953901018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_149
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 530
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e1fcfc83cf8670800000000000000
+      internalID: 8543262028451670383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_150
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 526
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909922ed27933010800000000000000
+      internalID: 1167442951742787737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_151
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 526
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e99c859006b3500800000000000000
+      internalID: 377000587076148866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_152
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 528
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3bc2dc324792e00800000000000000
+      internalID: 1020474487691064243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_153
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 528
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51994d63a55554180800000000000000
+      internalID: -9131798823468492523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_154
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 478
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63853e2666fb53d0800000000000000
+      internalID: -3216706590103731346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_155
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 479
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69542b1edad038340800000000000000
+      internalID: 4864747062957327766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 483
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d0443b54d735f0800000000000000
+      internalID: -776918922514343789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_157
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 478
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b1ae47460a32d0800000000000000
+      internalID: -3298316873763801036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_158
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 479
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f27e4b08f9a04d50800000000000000
+      internalID: 6719557526843454200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_159
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 478
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222c4d5ae8a0c5f0800000000000000
+      internalID: -738404614347677142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_160
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 478
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee33a004d2ebddd0800000000000000
+      internalID: -2460123371256201491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_161
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 428
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec974dd4ad467930800000000000000
+      internalID: 4140582277896183009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_162
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 428
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b13488e207132560800000000000000
+      internalID: 7287693923273945524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_163
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 428
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d46715a2ce55900800000000000000
+      internalID: 672703385861246223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_164
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 430
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3af2d804cff930800000000000000
+      internalID: 4179274521401506690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_165
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 427
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0708b78d36632c0800000000000000
+      internalID: -4452261400173055791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_166
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 428
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1994c0164049880800000000000000
+      internalID: -8605248173133688403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_167
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 428
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c3ee1af57f9850800000000000000
+      internalID: 6385952513755169404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_168
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 378
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998af2dc8a13e29b0800000000000000
+      internalID: -5103086726697473895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_169
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 378
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927bfa6297617710800000000000000
+      internalID: 1689245213798396562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_170
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 400
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21e9a7beaed4c50800000000000000
+      internalID: 6651230521791484588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_171
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 400
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868089a5d18b14fa0800000000000000
+      internalID: -5818166807372494744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_172
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 400
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a3a2e7833a7b40800000000000000
+      internalID: 5438716158719271895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_173
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f96579f153f31f0800000000000000
+      internalID: -1063072577236852863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_174
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ebaa9be5c2aa50800000000000000
+      internalID: 6531000025343584633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_175
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 394
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46fcad849463cce0800000000000000
+      internalID: -1386153671105120693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_176
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 391
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017580f66f0296a80800000000000000
+      internalID: -8473204981124016368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_177
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 388
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df138824a589430800000000000000
+      internalID: 3789878328231591311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_178
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 387
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542bf5335853aac90800000000000000
+      internalID: -7157849811543150011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_179
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 369
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd07fc568608b10800000000000000
+      internalID: 1981698622524284415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_180
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 369
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e17891aa4c4e430800000000000000
+      internalID: 3811387419514052116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_181
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573a9d227c9a6ef0800000000000000
+      internalID: -114106826339240100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_182
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a8683b8fd3d070800000000000000
+      internalID: 8130087541373706760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_183
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e914f2ab35d58b10800000000000000
+      internalID: 1983225663040264673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_184
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7173b46f2c0d410800000000000000
+      internalID: 1499913038994020338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_185
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 369
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14317152126d69d50800000000000000
+      internalID: 6743812929878430529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_186
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 369
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f3915d5cbdcaf0800000000000000
+      internalID: -374436085015251682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_187
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 369
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f4359c2ed22130800000000000000
+      internalID: 3540636540129833154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_188
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 369
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9311d83e68aa2ac30800000000000000
+      internalID: 4369242084822815033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_189
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a78da2f8cb9090800000000000000
+      internalID: -8026600966238789125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_190
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 328
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1272d63bf31040800000000000000
+      internalID: 4617310255862390723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_191
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 340
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422a777cfd216080800000000000000
+      internalID: -9196018401754340800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 278
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d413a8dab02c9e0800000000000000
+      internalID: -1602705677414740631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_193
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 278
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58261264eabbba10800000000000000
+      internalID: 1926338755691948126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_194
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 290
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ee266a490297b0800000000000000
+      internalID: -5219098803022403563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_195
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c96e5080724cf0800000000000000
+      internalID: -269529331046693920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_196
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 228
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acbe9c4bc99e170800000000000000
+      internalID: 8208264096155159141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_197
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 248
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287440d351a85250800000000000000
+      internalID: 5933669890409134122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_198
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 178
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f948efdc6eac30800000000000000
+      internalID: 4372551997153999236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 178
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552441681886e090800000000000000
+      internalID: -8005561649312029352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_200
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 197
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a55271f74775cd0800000000000000
+      internalID: -2569456973193586026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_201
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d50981a9f2693b0800000000000000
+      internalID: -5506161155530269381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 128
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626862028e4f29fe0800000000000000
+      internalID: -1183614474236033498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_203
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef120f0903b47d790800000000000000
+      internalID: -7505447582027472386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Pac-Man Championship Edition DX - Vectorized Unused_204
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba425d59914a25c0800000000000000
+      internalID: -4239503972264424784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
