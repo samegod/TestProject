@@ -29,18 +29,20 @@ public class Script : MonoBehaviour
         vec = Character.transform.position;
         pos = new Vector3(1, 1, 0);
 
-        x1 = PauseButton.transform.position.x - 50;
-        x2 = PauseButton.transform.position.x + 50;
-        y1 = PauseButton.transform.position.y - 50;
-        y2 = PauseButton.transform.position.y + 50;
+        x1 = PauseButton.transform.position.x - 100;
+        x2 = PauseButton.transform.position.x + 100;
+        y1 = PauseButton.transform.position.y - 100;
+        y2 = PauseButton.transform.position.y + 100;
     }
 
 
     void Update()
     {
+        //rotate character 
         rotateZ = Mathf.Atan2(Path.y, Path.x) * Mathf.Rad2Deg;
         Character.transform.rotation = Quaternion.Euler(0f, 0f, rotateZ);
 
+        //pause the game
         if (Input.GetKeyDown(KeyCode.Space))
         {
             PauseGame();
@@ -54,50 +56,48 @@ public class Script : MonoBehaviour
             float x = Input.mousePosition.x;
             float y = Input.mousePosition.y;
 
-            if (!((x1 < x && x2 > x) && (y1 < y && y2 > y)))
+            //create new point
+            if (!((x1 < x && x2 > x) && (y1 < y && y2 > y)) && !Pause)
             {
                 dots.AddLast(Instantiate(point, vec, Quaternion.identity));
+                //delete previous point
+                if (dots.Last != dots.First)
+                {
+
+                    dots.Last.Previous.Value.SendMessage("destroy");
+                    dots.Remove(dots.Last.Previous);
+                }
 
                 forMotion();
             }
         }
-        
 
+        //moving character and destroying point if it reached the destination
         if (Mathf.Abs(Character.transform.position.x - pos.x) > 0.1 || Mathf.Abs(Character.transform.position.y - pos.y) > 0.1)
         {
             Character.transform.position += Path * movespeed * Time.deltaTime;
         }
         else if (dots.First != null)
         {
-            if (dots.First == dots.Last)
-            {
-                forMotion();
-
-                dots.First.Value.SendMessage("destroy");
-                dots.RemoveFirst();
-            }
-            else
-            {
-                dots.First.Value.SendMessage("destroy");
-                dots.RemoveFirst();
-
-                forMotion();
-            }
+            dots.Last.Value.SendMessage("destroy");
+            dots.RemoveLast();
         }
     }
 
+    //counting the position of destination
     void forMotion()
     {
-        Path.x = dots.First.Value.transform.position.x - Character.transform.position.x;
-        Path.y = dots.First.Value.transform.position.y - Character.transform.position.y;
+        Path.x = dots.Last.Value.transform.position.x - Character.transform.position.x;
+        Path.y = dots.Last.Value.transform.position.y - Character.transform.position.y;
 
         float len = Mathf.Sqrt(sqr(Path.x) + sqr(Path.y));
         Path.x /= len;
         Path.y /= len;
 
-        pos = dots.First.Value.transform.position;
+        pos = dots.Last.Value.transform.position;
     }
 
+    //Function for pause
     void PauseGame()
     {
         if (Pause)
