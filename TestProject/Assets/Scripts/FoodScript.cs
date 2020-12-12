@@ -14,6 +14,8 @@ public class FoodScript : MonoBehaviour
 
         int id = Random.Range(0, 8);
         spriteRenderer.sprite = sprites[id];
+
+        sprites = null;
     }
 
 }

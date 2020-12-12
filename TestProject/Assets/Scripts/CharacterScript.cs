@@ -7,8 +7,11 @@ public class CharacterScript : MonoBehaviour
     public GameObject point;
     public GameObject Character;
     public GameObject lr;
-    public GameObject PauseButton;
     public GameObject text;
+    public GameObject main;
+    public GameObject canvas;
+    public GameObject NewBest;
+    public GameObject PlusCoin;
     public LinkedList<GameObject> dots = new LinkedList<GameObject>();
 
     public float movespeed = 2;
@@ -18,7 +21,7 @@ public class CharacterScript : MonoBehaviour
     private Vector3 Path;
     private Vector3 pos;
 
-    private BoxCollider2D collider;
+    private Animator animator;
 
     float x1;
     float x2;
@@ -28,17 +31,22 @@ public class CharacterScript : MonoBehaviour
     private int score = 0;
 
     private bool Pause = false;
+    private bool start = false;
+
+    private float ragemodeTime;
+
     void Start()
     {
-        collider = GetComponent<BoxCollider2D>();
-        lr.SendMessage("addChar", gameObject.transform);
+        animator = GetComponent<Animator>();
+        
+        lr.SendMessage("AddChar", gameObject.transform);
+
         vec = Character.transform.position;
         pos = new Vector3(1, 1, 0);
 
-        x1 = PauseButton.transform.position.x - 50;
-        x2 = PauseButton.transform.position.x + 50;
-        y1 = PauseButton.transform.position.y - 50;
-        y2 = PauseButton.transform.position.y + 50;
+        ragemodeTime = 0f;
+
+        StartCoroutine(SkipAnim());
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -46,15 +54,68 @@ public class CharacterScript : MonoBehaviour
         if (collision.gameObject.name == "Food(Clone)")
         {
             Destroy(collision.gameObject);
-            score += 100;
+
+            score += 50;
             text.SendMessage("addScore", score);
+
+            main.SendMessage("AddDifficulty", score / 300);
+
+            if (PlayerPrefs.GetInt("Score") < score)
+                NewBest.SetActive(true);
+
+            animator.SetBool("Ragemode", true);
+            main.SendMessage("CharacterRaged");
+            ragemodeTime = 3f;
         }
 
         if (collision.gameObject.name == "Enemy(Clone)")
         {
-            Time.timeScale = 0;
-            score = 0;
-            text.SendMessage("addScore", score);
+            if (animator.GetBool("Ragemode"))
+            {
+                collision.gameObject.SendMessage("Death");
+
+                score += 100;
+                text.SendMessage("addScore", score);
+
+                main.SendMessage("AddDifficulty", score / 300);
+
+                if (PlayerPrefs.GetInt("Score") < score)
+                    NewBest.SetActive(true);
+            }
+            else
+            {
+                if (dots.First != null)
+                {
+                    dots.First.Value.SendMessage("destroy");
+                    dots.RemoveFirst();
+                }
+                StartCoroutine(DeathAnim());
+
+                if (PlayerPrefs.GetInt("Score") < score)
+                    PlayerPrefs.SetInt("Score", score);
+            }
+        }
+
+        if (collision.gameObject.name == "Coin(Clone)")
+        {
+
+            int val = PlayerPrefs.GetInt("Coins");
+            if (score < 5000)
+            {
+                val += (score / 1000) + 1;
+                NewBest.SendMessage("PlusChange", (score / 1000) + 1);
+                Debug.Log((score / 1000) + 1);
+            }
+            else
+            {
+                val += 5;
+                NewBest.SendMessage("PlusChange", 5);
+            }
+            PlayerPrefs.SetInt("Coins", val);
+
+            PlusCoin.SetActive(true);
+
+            Destroy(collision.gameObject);
         }
     }
 
@@ -64,13 +125,7 @@ public class CharacterScript : MonoBehaviour
         rotateZ = Mathf.Atan2(Path.y, Path.x) * Mathf.Rad2Deg;
         Character.transform.rotation = Quaternion.Euler(0f, 0f, rotateZ);
 
-        //pause the game
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            PauseGame();
-        }
-
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && !Pause && start)
         {
             vec = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             vec.z = 0;
@@ -83,7 +138,7 @@ public class CharacterScript : MonoBehaviour
                 float y = Input.mousePosition.y;
 
                 //create new point
-                if (!((x1 < x && x2 > x) && (y1 < y && y2 > y)) && !Pause)
+                if (!((x1 < x && x2 > x) && (y1 < y && y2 > y)))
                 {
                     dots.AddLast(Instantiate(point, vec, Quaternion.identity));
                     //delete previous point
@@ -109,6 +164,8 @@ public class CharacterScript : MonoBehaviour
             dots.Last.Value.SendMessage("destroy");
             dots.RemoveLast();
         }
+
+        Ragemode();
     }
 
     //counting the position of destination
@@ -125,22 +182,73 @@ public class CharacterScript : MonoBehaviour
     }
 
     //Function for pause
-    void PauseGame()
+    public void PauseGame()
     {
         if (Pause)
         {
-            Time.timeScale = 1;
             Pause = false;
         }
         else
         {
-            Time.timeScale = 0;
             Pause = true;
         }
+    }
+
+    public void SetButtonPosition1(Vector3 vec)
+    {
+        x1 = vec.x;
+        y1 = vec.y;
+    }
+    public void SetButtonPosition2(Vector3 vec)
+    {
+        x2 = vec.x;
+        y2 = vec.y;
     }
 
     float sqr(float x1)
     {
         return x1 * x1;
+    }
+
+    void Ragemode()
+    {
+        if (ragemodeTime <= 0)
+            animator.SetBool("Ragemode", false);
+        else
+            ragemodeTime -= Time.deltaTime;
+    }
+
+    public void Initialise()
+    {
+        Character.transform.position = new Vector3(0, 0, 0);
+        score = 0;
+        text.SendMessage("addScore", score);
+        main.SendMessage("KillThemAll");
+    }
+
+    public void BackOnStage()
+    {
+        Time.timeScale = 1f;
+        main.SendMessage("KillThemAll");
+        animator.SetBool("Death", false);
+
+        StartCoroutine(SkipAnim());
+    }
+
+    IEnumerator SkipAnim()
+    {
+        yield return new WaitForSeconds(1.3f);
+        start = true;
+    }
+
+    IEnumerator DeathAnim()
+    {
+        start = false;
+        animator.updateMode = AnimatorUpdateMode.UnscaledTime;
+        Time.timeScale = 0f;
+        animator.SetBool("Death", true);
+        yield return new WaitForSecondsRealtime(1f);
+        animator.updateMode = AnimatorUpdateMode.Normal;
+        canvas.SendMessage("EndGame");
     }
 }

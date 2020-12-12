@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class DotScript : MonoBehaviour
 {
@@ -11,7 +9,7 @@ public class DotScript : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         lr = GameObject.Find("LineRenderer");
-        lr.SendMessage("addPoint", gameObject);
+        lr.SendMessage("AddPoint", gameObject);
     }
 
     //Call all needed functions to destroy the dot
@@ -19,7 +17,7 @@ public class DotScript : MonoBehaviour
     {
         animator.SetBool("destroying", true);
         lr = GameObject.Find("LineRenderer");
-        lr.SendMessage("dellSndPoint");
+        lr.SendMessage("DellSndPoint");
         Destroy(gameObject, 0.35f);
     }
 }

@@ -9,40 +9,46 @@ public class EnemyScript : MonoBehaviour
     public float movespeed = 2;
 
     private GameObject Enemy;
+    public Animator animator;
 
     private Vector3 destination;
     private Vector3 Path;
     private Vector3 pos;
 
-    float x1;
-    float x2;
-    float y1;
-    float y2;
+    private float x1;
+    private float x2;
+    private float y1;
+    private float y2;
+
+    private bool moving = false;
 
     void Start()
     {
-        PauseButton = GameObject.Find("Canvas").transform.GetChild(0).gameObject;
+        animator = GetComponent<Animator>();
         Enemy = gameObject;
-        //PauseButton = PauseButton.transform.GetChild(0).gameObject;
-
-        x1 = PauseButton.transform.position.x - 50;
-        x2 = PauseButton.transform.position.x + 50;
-        y1 = PauseButton.transform.position.y - 50;
-        y2 = PauseButton.transform.position.y + 50;
 
         newDestination();
         forMotion();
+
+        int state = Random.Range(0, 5);
+        animator.SetInteger("Color", state);
+
+        StartCoroutine(Wait());
     }
 
     void Update()
     {
-        if (Mathf.Abs(Enemy.transform.position.x - pos.x) > 0.1 || Mathf.Abs(Enemy.transform.position.y - pos.y) > 0.1)
+        if (moving)
         {
-            Enemy.transform.position += Path * movespeed * Time.deltaTime;
-        }else
-        {
-            newDestination();
-            forMotion();
+            if (Mathf.Abs(Enemy.transform.position.x - pos.x) > 0.1 || Mathf.Abs(Enemy.transform.position.y - pos.y) > 0.1)
+            {
+                Enemy.transform.position += Path * movespeed * Time.deltaTime;
+            }
+            else
+            {
+                newDestination();
+                forMotion();
+            }
         }
     }
 
@@ -50,12 +56,8 @@ public class EnemyScript : MonoBehaviour
     {
         float x;
         float y;
-
-        do
-        {
-            x = Random.Range(10, Screen.width - 10);
-            y = Random.Range(10, Screen.height - 10);
-        } while ((x1 < x && x2 > x) && (y1 < y && y2 > y));
+        x = Random.Range(10, Screen.width - 10);
+        y = Random.Range(10, Screen.height - 10);
 
         destination = new Vector3(x, y, 0);
         destination = Camera.main.ScreenToWorldPoint(destination);
@@ -77,5 +79,17 @@ public class EnemyScript : MonoBehaviour
     float sqr(float x1)
     {
         return x1 * x1;
+    }
+
+    public void Death()
+    {
+        Destroy(gameObject);
+    }
+
+    private IEnumerator Wait()
+    {
+        float time = Random.Range(0, 100) / 10;
+        yield return new WaitForSeconds(time);
+        moving = true;
     }
 }

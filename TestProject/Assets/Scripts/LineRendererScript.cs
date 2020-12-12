@@ -1,65 +1,86 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
-using System;
+using UnityEngine;  
 
 public class LineRendererScript : MonoBehaviour
 {
-    public Transform charPoint;
     public float drawSpeed = 6f;
+    public Texture[] textures = new Texture[9]; 
 
     private LineRenderer lr;
     private Transform origin;
     private Transform destination;
-    public float counter = 0;
-    public float dist;
+
+    private int toDraw = 0;
+    private int textureCount = 0;
+    public float time;
+
+    public float realtime;
 
     private void Awake()
     {
         lr = GetComponent<LineRenderer>();
-        lr.positionCount = 1;
+        toDraw = 1;
+
+        time = Time.deltaTime;
     }
 
     //Function that is needed to add point
-    public void addPoint(GameObject obj)
+    public void AddPoint(GameObject obj)
     {
-        counter = 0;
         origin = obj.transform;
-        lr.positionCount++;
+        Vector3 vector3 = obj.transform.position;
+        vector3.z = -1;
+        origin.position = vector3;
+        toDraw++;
+        time = Time.time;
+        textureCount = 0;
     }
 
     //Function to delete second point's transform
-    void dellSndPoint()
+    public void DellSndPoint()
     {
-        lr.positionCount--;
+        toDraw--;
     }
 
     //Function that is called only once to add origin point(Character)
-    public void addChar(Transform tr) 
+    public void AddChar(Transform tr) 
     {
-        charPoint = tr;
+        destination = tr;
     }
 
-    private void Update()
+    //Line animation
+    private void SpriteAnimation()
     {
+        if (textureCount < 8)
+        {
+            lr.material.SetTexture("_MainTex", textures[textureCount]);
+            textureCount++;
+        }
+        else if (textureCount == 8)
+        {
+            lr.material.SetTexture("_MainTex", textures[7]);
+            textureCount++;
+        }
+        else if (textureCount == 9)
+        {
+            lr.material.SetTexture("_MainTex", textures[6]);
+            textureCount++;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        SpriteAnimation();
+        lr.positionCount = toDraw;
+
         //drawing a line
-        if (lr.positionCount > 1)
+        if (toDraw > 1)
         {
             lr.SetPosition(0, origin.position);
-            destination = charPoint;
-            dist = Vector3.Distance(destination.position, origin.position);
-            if (dist > 0.12)
-            {
-                counter += .1f / drawSpeed;
-                float x = Mathf.Lerp(0, dist, counter);
-
-                Vector3 pointA = origin.position;
-                Vector3 pointB = destination.position;
-
-                Vector3 pointAlongLine = x * Vector3.Normalize(pointB - pointA) + pointA;
-
-                lr.SetPosition(1, pointAlongLine);
-            }
+            lr.SetPosition(1, destination.position);
         }
+
+        realtime = Time.time;
     }
 }
