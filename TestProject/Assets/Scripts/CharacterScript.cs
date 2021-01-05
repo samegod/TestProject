@@ -12,6 +12,7 @@ public class CharacterScript : MonoBehaviour
     public GameObject canvas;
     public GameObject NewBest;
     public GameObject PlusCoin;
+    public GameObject Audio;
     public LinkedList<GameObject> dots = new LinkedList<GameObject>();
 
     public float movespeed = 2;
@@ -49,10 +50,23 @@ public class CharacterScript : MonoBehaviour
         StartCoroutine(SkipAnim());
     }
 
+    public void Instant(GameObject[] prefs)
+    {
+        lr = prefs[0];
+        text = prefs[1];
+        main = prefs[2];
+        canvas = prefs[3];
+        NewBest = prefs[4];
+        PlusCoin = prefs[5];
+        Audio = prefs[6];
+    }
+
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.name == "Food(Clone)")
         {
+            Audio.SendMessage("Eat");
+
             Destroy(collision.gameObject);
 
             score += 50;
@@ -72,6 +86,8 @@ public class CharacterScript : MonoBehaviour
         {
             if (animator.GetBool("Ragemode"))
             {
+                Audio.SendMessage("Eat");
+
                 collision.gameObject.SendMessage("Death");
 
                 score += 100;
@@ -84,6 +100,7 @@ public class CharacterScript : MonoBehaviour
             }
             else
             {
+                Audio.SendMessage("StopIdle");
                 if (dots.First != null)
                 {
                     dots.First.Value.SendMessage("destroy");
@@ -98,13 +115,13 @@ public class CharacterScript : MonoBehaviour
 
         if (collision.gameObject.name == "Coin(Clone)")
         {
+            Audio.SendMessage("Coin");
 
             int val = PlayerPrefs.GetInt("Coins");
             if (score < 5000)
             {
                 val += (score / 1000) + 1;
                 NewBest.SendMessage("PlusChange", (score / 1000) + 1);
-                Debug.Log((score / 1000) + 1);
             }
             else
             {
@@ -186,10 +203,12 @@ public class CharacterScript : MonoBehaviour
     {
         if (Pause)
         {
+            Audio.SendMessage("Idle");
             Pause = false;
         }
         else
         {
+            Audio.SendMessage("StopAllAudio");
             Pause = true;
         }
     }
@@ -220,6 +239,7 @@ public class CharacterScript : MonoBehaviour
 
     public void Initialise()
     {
+        Audio.SendMessage("Idle");
         Character.transform.position = new Vector3(0, 0, 0);
         score = 0;
         text.SendMessage("addScore", score);
@@ -237,12 +257,15 @@ public class CharacterScript : MonoBehaviour
 
     IEnumerator SkipAnim()
     {
+        Audio.SendMessage("Starta");
         yield return new WaitForSeconds(1.3f);
         start = true;
+        Audio.SendMessage("Idle");
     }
 
     IEnumerator DeathAnim()
     {
+        Audio.SendMessage("Death");
         start = false;
         animator.updateMode = AnimatorUpdateMode.UnscaledTime;
         Time.timeScale = 0f;

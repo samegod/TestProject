@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class MainScript : MonoBehaviour
@@ -8,7 +7,6 @@ public class MainScript : MonoBehaviour
     public GameObject Enemy;
     public GameObject Coin;
     public GameObject PauseButton;
-    public GameObject canvas;
     public GameObject character;
     public GameObject[] enemyarr;
     public LinkedList<GameObject> Enemylist;
@@ -36,6 +34,18 @@ public class MainScript : MonoBehaviour
         AddFoodTime();
         AddCoinTime();
 
+
+
+        ragemodeTime = 0f;
+
+
+    }
+
+    public void SetChar(GameObject chara)
+    {
+
+        character = chara;
+
         Vector3 vec1;
         Vector3 vec2;
         vec1 = Camera.main.WorldToScreenPoint(new Vector3(PauseButton.transform.position.x - 0.5f, PauseButton.transform.position.y - 0.5f, 0));
@@ -45,12 +55,9 @@ public class MainScript : MonoBehaviour
         x2 = vec2.x;
         y2 = vec2.y;
 
-        ragemodeTime = 0f;
-
         character.SendMessage("SetButtonPosition1", vec1);
         character.SendMessage("SetButtonPosition2", vec2);
     }
-
 
     void Update()
     {

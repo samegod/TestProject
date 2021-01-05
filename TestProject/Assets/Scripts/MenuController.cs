@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
@@ -11,11 +9,45 @@ public class MenuController : MonoBehaviour
     public GameObject logo;
     public bool rotate = false;
     public float z;
+    public float targetX = -1;
+    public GameObject ButtonsPanel;
+    public GameObject ShopPanel;
+    public GameObject VoluneOn;
+    public GameObject VolumeOff;
+
+    private static GameObject Music;
+
+    private bool openShop = false;
+    private bool closeShop = false;
 
     private void Start()
     {
+        CheckCoins();
+        text.text = "Рекорд: " + PlayerPrefs.GetInt("Score");
+
+        if (PlayerPrefs.GetString("Volume") == "off")
+        {
+            VoluneOn.SetActive(false);
+            VolumeOff.SetActive(true);
+        }
+        else
+        {
+            VoluneOn.SetActive(true);
+            VolumeOff.SetActive(false);
+        }
+        if (GameObject.FindGameObjectsWithTag("Music").Length == 1)
+        {
+            Music = GameObject.FindGameObjectsWithTag("Music")[0];
+        }
+        else
+        {
+            Music = GameObject.FindGameObjectsWithTag("Music")[0];
+        }
+    }
+
+    public void CheckCoins()
+    {
         coins.text = PlayerPrefs.GetInt("Coins").ToString();
-        text.text = "Best Score: " + PlayerPrefs.GetInt("Score");
     }
 
     void Update()
@@ -36,6 +68,29 @@ public class MenuController : MonoBehaviour
             else
                 rotate = true;
         }
+
+        Vector3 ShopVec = ShopPanel.transform.position;
+
+        if (openShop && ShopPanel.transform.position.x > 0)
+        {
+            
+            ButtonsPanel.transform.Translate(-5f * Time.deltaTime, 0, 0);
+            ShopPanel.transform.Translate(-5f * Time.deltaTime, 0, 0);
+        }
+        else
+        {
+            openShop = false;
+        }
+
+        if (closeShop && ButtonsPanel.transform.position.x < 0)
+        {
+            ButtonsPanel.transform.Translate(5f * Time.deltaTime, 0, 0);
+            ShopPanel.transform.Translate(5f * Time.deltaTime, 0, 0);
+        }
+        else
+        {
+            closeShop = false;
+        }
     }
 
     public void Play()
@@ -46,12 +101,35 @@ public class MenuController : MonoBehaviour
 
     public void Inventory()
     {
-
+        closeShop = false;
+        openShop = true;
     }
 
     public void Exit()
     {
         Debug.Log("Quit");
         Application.Quit();
+    }
+
+    public void CloseShop()
+    {
+        openShop = false;
+        closeShop = true;
+    }
+
+    public void Volumeon()
+    {
+        VoluneOn.SetActive(false);
+        VolumeOff.SetActive(true);
+        PlayerPrefs.SetString("Volume", "off");
+        Music.SendMessage("ChangeVolume");
+    }
+
+    public void Volumeoff()
+    {
+        VoluneOn.SetActive(true);
+        VolumeOff.SetActive(false);
+        PlayerPrefs.SetString("Volume", "on");
+        Music.SendMessage("ChangeVolume");
     }
 }

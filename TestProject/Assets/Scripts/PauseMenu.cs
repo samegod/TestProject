@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using UnityEngine.SceneManagement;
-using System.Collections.Generic;
+﻿using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.Advertisements;
 
@@ -8,7 +6,7 @@ public class PauseMenu : MonoBehaviour
 {
     private bool secondTry = false;
 
-    public static bool GameIsPaused = false;
+    public bool GameIsPaused = false;
 
     public GameObject pauseMenuUI;
     public GameObject endMenuUI;
@@ -22,6 +20,11 @@ public class PauseMenu : MonoBehaviour
         {
             Advertisement.Initialize("3928945", false);
         }
+    }
+    public void SetChar(GameObject chara)
+    {
+
+        Character = chara;
     }
 
     public void Update()
