@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/LowPolyWater_Pack/_Demo/DemoScene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
